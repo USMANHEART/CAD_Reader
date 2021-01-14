@@ -1,1 +1,1 @@
-CAD_Maker.exe guiguicad2.txt
+CAD_Maker.exe guiguicad.txt
