@@ -1,1 +1,1 @@
-CAD_Maker.exe guiguicad.txt
+CAD_Maker.exe guiguicad.json
