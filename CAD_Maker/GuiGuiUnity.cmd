@@ -1,1 +1,1 @@
-CAD_Maker.exe guiguicad.json
+CAD_Maker.exe "http://eggrj.oss-cn-hangzhou.aliyuncs.com/renderJSON/16109424303420.json,http://eggrj.oss-cn-hangzhou.aliyuncs.com/renderJSON/16093158855320.jsonggcad"
